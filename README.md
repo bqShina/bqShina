@@ -47,7 +47,7 @@ Built a student productivity app using Next.js and TypeScript in just 30 hours
 
 **Master of Information Technology** — RMIT University (GPA: 3.7/4.0)  
 **Master of Design** — Monash University  
-**Bachelor of Electrical Information Science** — Harbin Normal University
+**Bachelor of Electrical Information Science and Technology** — Harbin Normal University
 
 ---
 
